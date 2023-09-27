@@ -1,6 +1,6 @@
 # LINT-PADS
  
-The aim of this program is to demonstrate the principles of the drama teaching technique - 'LINT PADS' (as described by Paul Elsam https://www.amazon.co.uk/Acting-Characters-Performance-Books-Elsam/dp/1408132842).  LINT PADS is divided between 'voice' (LINT) and 'speech' (PADS) ...
+The aim of this Pure Data program is to demonstrate the principles of the drama teaching technique - 'LINT PADS' (as described by Paul Elsam https://www.amazon.co.uk/Acting-Characters-Performance-Books-Elsam/dp/1408132842).  LINT PADS is divided between 'voice' (LINT) and 'speech' (PADS) ...
 
 LINT = Loudness, Inflection, Note and Tone
 PADS = Pace, Accent, Diction and Specials
