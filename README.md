@@ -11,7 +11,7 @@ PADS = Pace, Accent, Diction and Specials
 
 "Note describes the root note behind a person's voice; this is the musical note around which a person's inflection fluctuates. It is especially noticeable when you yawn. Typically, males have a lower root note than females."
 
-"Tone is the hardness or softness of the quality of sound you make. It's not easy to alter tone ñ it's tied in strongly to accent, and to cultural factors (such as pressure from peers to sound tough). To alter tone consciously you need to be able to relax or tense muscles at will ñ especially in the throat."
+"Tone is the hardness or softness of the quality of sound you make. It's not easy to alter tone - it's tied in strongly to accent, and to cultural factors (such as pressure from peers to sound tough). To alter tone consciously you need to be able to relax or tense muscles at will - especially in the throat."
 
 "Pace is simply how quickly the words are spoken. Urban accents tend to feature faster speech than country accents but psychological factors such as confidence also have a strong influence on pace."
 
